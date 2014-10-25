@@ -5,11 +5,11 @@
   "scripts": ["index.js"],
   "main": "index.js",
   "dependencies": {
-    "visionmedia/superagent": "*",
-    "visionmedia/debug": "*"
+    "tj/superagent": "*",
+    "tj/debug": "*"
   },
   "development": {
-    "visionmedia/mocha": "*",
+    "tj/mocha": "*",
     "guille/expect.js": "*"
   }
 }
